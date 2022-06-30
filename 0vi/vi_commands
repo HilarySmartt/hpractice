@@ -1,0 +1,7 @@
+i - edit mode aka insert mode
+dd - delete and copy - cut
+p - paste
+u - undo
+:q - quit
+0 - beginning of line
+$ - end of line
